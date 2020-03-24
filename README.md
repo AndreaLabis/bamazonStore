@@ -9,3 +9,5 @@ The app takes in orders from customers, basseed on product IDs and depletes stoc
 
 This is a command line application so, aside from reading the code, here are a few pictures of the app working in action!!
 
+
+
