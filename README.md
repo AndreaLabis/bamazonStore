@@ -10,4 +10,7 @@ The app takes in orders from customers, basseed on product IDs and depletes stoc
 This is a command line application so, aside from reading the code, here are a few pictures of the app working in action!!
 
 
+![Image of Bamazon Store#1](https://github.com/AndreaLabis/bamazonStore/blob/master/css/assets/images/bamazonimg.jpg)
 
+
+![Image of Bamazon Store#2](https://github.com/AndreaLabis/bamazonStore/blob/master/css/assets/images/bamazonimg2.jpg)
