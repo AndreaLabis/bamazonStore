@@ -6,19 +6,19 @@ USE bamazon_db;
 
 CREATE TABLE products (
 	-- Columns
-	ItemID INT NOT NULL AUTO_INCREMENT,
-	ProductName VARCHAR(200) NULL,
-	DepartmentName VARCHAR(200) NULL,
-	Price INT(6) DEFAULT 0,
-	StockQuantity INT (6) NOT NULL,
+	ID# INT NOT NULL AUTO_INCREMENT,
+	PRODUCT NAME VARCHAR(200) NULL,
+	DEPARTMENT VARCHAR(200) NULL,
+	PRICE INT(6) DEFAULT 0,
+	QUANTITY AVAILABLE INT (6) NOT NULL,
   
-  PRIMARY KEY (ItemID)
+  PRIMARY KEY (ID#)
 );
 
 
 
 -- products
-INSERT INTO products (ProductName, DepartmentName, Price, StockQuantity) VALUES 
+INSERT INTO products (PRODUCT NAME, DEPARTMENT, PRICE, QUANTITY AVAILABLE) VALUES 
 ("John Wick DVD", "Movies", 19.95, 20),
 ("Microsoft Suite CD ROM", "Computer Software", 109.95, 16),
 ("T.I.: Urban Legend CD", "Music", 8.99, 7),
